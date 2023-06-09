@@ -1,0 +1,6 @@
+This is a simulation software project which uses the
+Trick simulation framework found at
+  https://github.com/nasa/trick
+
+At the time of creation of this file, the project is empty
+and this is simply used to demostrate git subtrees.
